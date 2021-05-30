@@ -1,0 +1,21 @@
+div a:link{
+    text-decoration: none;
+    color:cadetblue;
+    background-color:transparent;
+}
+
+div a:visited{
+    text-decoration: none;/*remove the underline from link*/
+    color:tomato;
+    background-color:transparent;
+}
+div a:hover{
+    text-decoration: underline;   
+    color:blue;
+    background-color:transparent;
+}
+div a:active{
+    text-decoration: underline;
+    color:red;
+    background-color:transparent;
+}
