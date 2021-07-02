@@ -1,3 +1,2 @@
 # HTML_TUTORIAL:
-  - `This is the practical HTML.`
-# Chapter_1:
+  - This is the practical HTML.
